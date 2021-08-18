@@ -84,6 +84,6 @@
 <a href="https://github.com/nawasco/mapboxgljs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nawasco&repo=mapboxgljs"/>
   
-<a href="https://github.com/watergis/terrain-rgb">
+<a href="https://github.com/nakuruwater/mapbox-gl-js-client">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nakuruwater&repo=mapbox-gl-js-client"/>
   
