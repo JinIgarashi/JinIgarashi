@@ -24,10 +24,66 @@
   </a>
 </p>
 
+<p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=JinIgarashi&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinIgarashi" />
 </a>
+</p>
 
+<a href="https://github.com/watergis/docs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=docs"/>
+  
+### Mapbox GL JS Plugins
+
+<a href="https://github.com/watergis/mapbox-gl-export">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-export"/>
+  
+<a href="https://github.com/watergis/mapbox-gl-legend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-legend"/>
+ 
+<a href="https://github.com/watergis/mapbox-gl-elevation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-elevation"/>
+  
+<a href="https://github.com/watergis/mapbox-gl-valhalla">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-valhalla"/>
+  
+<a href="https://github.com/watergis/mapbox-gl-pitch-toggle-control">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-pitch-toggle-control"/>
+  
+<a href="https://github.com/watergis/mapbox-gl-popup">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-popup"/>
+
+<a href="https://github.com/watergis/mapbox-gl-area-switcher">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-area-switcher"/>
+  
+### Vector Tiles tools
+  
+<a href="https://github.com/watergis/vt-boilerplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=vt-boilerplate"/>
+  
+<a href="https://github.com/watergis/mapboxgljs-boilerplate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapboxgljs-boilerplate"/>
+
+<a href="https://github.com/watergis/dem2terrainrgb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=dem2terrainrgb"/>
+  
+<a href="https://github.com/watergis/terrain-rgb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=terrain-rgb"/>
+  
+### Vector Tiles Maps for Water Utilites in East Africa
+  
+<a href="https://github.com/narwassco/mapbox-gl-js-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narwassco&repo=mapbox-gl-js-client"/>
+  
+<a href="https://github.com/wasac/mapbox-gl-js-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wasac&repo=mapbox-gl-js-client"/>
+  
+<a href="https://github.com/nawasco/mapboxgljs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nawasco&repo=mapboxgljs"/>
+  
+<a href="https://github.com/watergis/terrain-rgb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nakuruwater&repo=mapbox-gl-js-client"/>
+  
