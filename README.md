@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jin IGARASHI</h1>
 <h3 align="center">GIS software developer & consultant. I am fascinated by water management</h3>
 
-- 🔭 I’m currently working on [GIS for Water](https://github.com/watergis)'s personal OSS projects, [Vector Tiles map for water management](https://docs.water-gis.com/) and [QField's Japanese translation](https://qfield.org/docs/ja/)
+- See my [portfolio](https://jin-igarashi.me).
+- 🔭 I’m currently working on [GIS for Water](https://github.com/watergis)'s personal OSS projects, [Vector Tiles map for water management](https://water-gis.com/) and [QField's Japanese translation](https://qfield.org/docs/ja/)
 - 📝 I'm currently a poatgraduate student studying MSc Water, Sanitation and Health Engineering at university of Leeds, UK.
 - 🌱 I’m currently learning **Vector Tiles, water technologies**
 - 👯 I’m looking to collaborate on **water services providers or any GIS partners in Africa and other regions**
