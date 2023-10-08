@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jin IGARASHI</h1>
-<h3 align="center">GIS software developer & consultant. I am fascinated by water management</h3>
+<h3 align="center">An experienced GIS software developer & consultant. I am also fascinated by water and sanitation with geospatial.</h3>
 
-- See my [portfolio](https://jin-igarashi.me).
-- 🔭 I’m currently working on [GIS for Water](https://github.com/watergis)'s personal OSS projects, [Vector Tiles map for water management](https://water-gis.com/) and [QField's Japanese translation](https://qfield.org/docs/ja/)
-- 📝 I'm currently a poatgraduate student studying MSc Water, Sanitation and Health Engineering at university of Leeds, UK.
-- 🌱 I’m currently learning **Vector Tiles, water technologies**
-- 👯 I’m looking to collaborate on **water services providers or any GIS partners in Africa and other regions**
-- 🤔 I’m looking for help with **improving water situation through my GIS skills**
+- See my [CV](https://jin-igarashi.me).
+- 🔭 I have a FOSS project called [GIS for Water](https://github.com/watergis) aimed to help water utilities in Eastern Africa through GIS. I am also long term contributor to [QField's Japanese translation](https://qfield.org/docs/ja/)
+- 📝 I graduated from MSc Water, Sanitation and Health Engineering passed with distinction at university of Leeds, UK.
+- 🌱 I continue learning **cloud optimised geospatial technologies such as COG, PMTile**. i am also interested in **svelte/sveltekit**.
+- 👯 I’m looking for collaboraing on **water services providers or any GIS partners in Africa and other regions**
+- 🤔 I’m looking for help with **improving water and sanitation situation through my GIS skills**
 - 💬 Ask me about **FOSS4G like QGIS, QField, Vector Tiles tools, PostGIS or anything about Africa**
 - 📫 How to reach me: 
   <a href="http://twitter.com/j_igarashi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="j_igarashi" height="24" width="24" /></a>
@@ -26,63 +26,10 @@
   </a>
 </p>
 
-<p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=JinIgarashi&show_icons=true&count_private=true" />
+### Github Stats
+<p align="left">
+<a href="https://github.com/romijulianto">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=romijulianto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=romijulianto&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
-
-<a href="https://github.com/watergis/docs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=docs"/>
-  
-### Mapbox GL JS Plugins
-
-<a href="https://github.com/watergis/mapbox-gl-export">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-export"/>
-  
-<a href="https://github.com/watergis/mapbox-gl-legend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-legend"/>
- 
-<a href="https://github.com/watergis/mapbox-gl-elevation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-elevation"/>
-  
-<a href="https://github.com/watergis/mapbox-gl-valhalla">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-valhalla"/>
-  
-<a href="https://github.com/watergis/mapbox-gl-pitch-toggle-control">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-pitch-toggle-control"/>
-  
-<a href="https://github.com/watergis/mapbox-gl-popup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-popup"/>
-
-<a href="https://github.com/watergis/mapbox-gl-area-switcher">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapbox-gl-area-switcher"/>
-  
-### Vector Tiles tools
-  
-<a href="https://github.com/watergis/vt-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=vt-boilerplate"/>
-  
-<a href="https://github.com/watergis/mapboxgljs-boilerplate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=mapboxgljs-boilerplate"/>
-
-<a href="https://github.com/watergis/dem2terrainrgb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=dem2terrainrgb"/>
-  
-<a href="https://github.com/watergis/terrain-rgb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=watergis&repo=terrain-rgb"/>
-  
-### Vector Tiles Maps for Water Utilites in East Africa
-  
-<a href="https://github.com/narwassco/mapbox-gl-js-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=narwassco&repo=mapbox-gl-js-client"/>
-  
-<a href="https://github.com/wasac/mapbox-gl-js-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wasac&repo=mapbox-gl-js-client"/>
-  
-<a href="https://github.com/nawasco/mapboxgljs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nawasco&repo=mapboxgljs"/>
-  
-<a href="https://github.com/nakuruwater/mapbox-gl-js-client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nakuruwater&repo=mapbox-gl-js-client"/>
-  
